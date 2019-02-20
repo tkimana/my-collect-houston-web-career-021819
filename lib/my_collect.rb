@@ -9,7 +9,7 @@ def my_collect(array)
 end
 def my_collect(languages)
 language.upcase =  ["RUBY", "JAVASCRIPT","PYTHON","OBJECTIVE-C"]
-language.upcase.each do |language|
+language_upcase.each do |language|
   
 end
 def my_collect(students)
