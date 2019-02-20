@@ -13,6 +13,6 @@ language_upcase.each do |language|
   
 end
 def my_collect(students)
-  array = ["Tim","Tom","Sophie","Antoin"]
-  students.each do |student|
+  ["Tim","Tom","Sophie","Antoin"]
+  (students).each do |student|
 end
