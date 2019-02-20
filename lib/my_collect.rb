@@ -9,7 +9,7 @@ def my_collect(array)
 end
 def my_collect(languages)
 language.upcase
-language.upcase =  ["ruby", "javascript","python","objective-c"]
+language.upcase =  ["RUBY", "JAVASCRIPT","PYTHON","OBJECTIVE-C"]
 end
 def my_collect(students)
   ["Tim","Tom","Sophie","Antoin"]
